@@ -5,22 +5,22 @@
     "id": "${{TEAMS_APP_ID}}",
     "packageName": "com.microsoft.teams.extension",
     "developer": {
-        "name": "Teams App, Inc.",
-        "websiteUrl": "https://www.example.com",
-        "privacyUrl": "https://www.example.com/termofuse",
-        "termsOfUseUrl": "https://www.example.com/privacy"
+        "name": "Ahmed",
+        "websiteUrl": "https://github.com/angrowth/FLW-Teams-AI-Library",
+        "privacyUrl": "https://github.com/angrowth/FLW-Teams-AI-Library/blob/main/LICENSE",
+        "termsOfUseUrl": "https://github.com/angrowth/FLW-Teams-AI-Library/blob/main/LICENSE"
     },
     "icons": {
         "color": "color.png",
         "outline": "outline.png"
     },
     "name": {
-        "short": "FLW-${{TEAMSFX_ENV}}",
-        "full": "full name for FLW"
+        "short": "My Stocks",
+        "full": "My Stocks"
     },
     "description": {
-        "short": "short description for FLW",
-        "full": "full description for FLW"
+        "short": "Teams AI Chatbot for Stock management.",
+        "full": "Teams AI Chatbot for Stock management for Frontline Workers."
     },
     "accentColor": "#FFFFFF",
     "bots": [
