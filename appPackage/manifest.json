@@ -5,7 +5,7 @@
     "id": "${{TEAMS_APP_ID}}",
     "packageName": "com.microsoft.teams.extension",
     "developer": {
-        "name": "Ahmed",
+        "name": "Contoso",
         "websiteUrl": "https://github.com/angrowth/FLW-Teams-AI-Library",
         "privacyUrl": "https://github.com/angrowth/FLW-Teams-AI-Library/blob/main/LICENSE",
         "termsOfUseUrl": "https://github.com/angrowth/FLW-Teams-AI-Library/blob/main/LICENSE"
@@ -20,7 +20,7 @@
     },
     "description": {
         "short": "Teams AI Chatbot for Stock management.",
-        "full": "Teams AI Chatbot for Stock management for Frontline Workers."
+        "full": "Teams AI Chatbot for Stock management."
     },
     "accentColor": "#FFFFFF",
     "bots": [
